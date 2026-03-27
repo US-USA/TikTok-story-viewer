@@ -1,3 +1,14 @@
+<div align="center">
+  <img src="https://lf16-tiktok-im-scp.tiktokcdn.com/obj/tiktok-im-resource-operation-platform-sg/1733193473257-ts-666972652e77656270" width="10%" style="display:inline-block">
+  
+  <img src="https://lf16-tiktok-im-scp.tiktokcdn.com/obj/tiktok-im-resource-operation-platform-sg/1738810275116-ts-737469636b65725f726f73652e77656270" width="10%" style="display:inline-block">
+  
+  <img src="https://lf16-tiktok-im-scp.tiktokcdn.com/obj/tiktok-im-resource-operation-platform-sg/1733193249971-ts-30325f6269676d6f6a695f68692e77656270" width="10%" style="display:inline-block">
+  
+  <img src="https://lf16-tiktok-im-scp.tiktokcdn.com/obj/tiktok-im-resource-operation-platform-sg/1761822862030-ts-30345f6269676d6f6a695f68656172742e77656270" width="10%" style="display:inline-block">
+  
+</div>
+
 <h1 align="center">⭐ TikTok Story Viewer Using Python (Requests)</h1>
 
 <h3 align="center">🧑‍💻 Content & updates via Telegram: 
@@ -170,6 +181,7 @@
 </p>
 
 <img src="https://dummyimage.com/800x4/ff0000/ff0000">
+
 
 <h1 align="center">🧑‍💻 Author</h1>
 <p align="center">
